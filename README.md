@@ -1,1 +1,0 @@
-# saylani-internship-class
