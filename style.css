@@ -31,12 +31,14 @@ body {
   
     border: 2px solid;
     border-radius: 50%;
+    color: #f2c94c;
   }
   
   .time {
     font-family: "Roboto Mono", monospace;
     font-weight: 300;
     font-size: 48px;
+    color: #f2c94c;
   }
   
   .name {
@@ -60,10 +62,12 @@ body {
     border: none;
     margin: 0;
     outline: none;
+    color: #f76f00;
   }
   
   #playButton {
     display: block;
+    color: #f76f00;
   }
   
   #pauseButton {
