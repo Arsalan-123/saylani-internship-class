@@ -62,12 +62,10 @@ body {
     border: none;
     margin: 0;
     outline: none;
-    color: #f76f00;
   }
   
   #playButton {
     display: block;
-    color: #f76f00;
   }
   
   #pauseButton {
